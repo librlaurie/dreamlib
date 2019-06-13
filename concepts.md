@@ -2,14 +2,14 @@
 layout: default
 ---
 ## Concepts and Models
-<p>Here is an overview of the broad concepts and models that we worked on this week: </p>
+<p>We explored what is a library, service models and adaptions, and project planning. Below are a few highlights.</p>
 
 ### What is a library?
 We each did drawings that represented functions and services of the library. Here are the two that survived the week:
-<img style="width:'300px'" alt="A colorful drawing of shapes and lines, representing a library" src="images/concepts_whatislibrary.jpg"></img>
+<img style="width:'300px'" alt="A colorful drawing of shapes and lines, representing a library" src="images/concepts_whatislibrary.jpg">
 by Lauren Cooper
 
-<img style="width:'300px' float:'left'" alt="An abstract drawing of a library in marker, showing the pathways of books" src="images/Claire_lib_drawing.JPG"> </img>
+<img style="width:'300px' float:'left'" alt="An abstract drawing of a library in marker, showing the pathways of books" src="images/Claire_lib_drawing.JPG"> 
 by Claire Cahoon
 
 ### The Pyramid 
@@ -20,7 +20,7 @@ The pyramid is a model for developing and offering library services. The steps a
   1. Everyone Gets Without Asking: Standard academic and administrative services that the library offers to all (examples: wikis, libguides, media streaming, library catalog)
 
 Here are our drawings of the pyramid:
-
+![pyrmid service model](
 
 ### Project Planning
 We worked through how to manage projects (our own and for others) and best practices for making a project plan. We then moved through two different project planning tools:
