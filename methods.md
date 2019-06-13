@@ -12,9 +12,9 @@ Below are just some of the things we have a greater hunger to learn more about.
 
 The amazing Sarah Wipperman, Scholarly Communications Librarian at Penn Libraries, visited us to speak about her work and some of the tools designed by her and the Digital Scholarship team and Penn.
 
-[Reference Interview](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs)
-[SCUBA](http://bit.ly/creatingdefinitions)
-[OpenAccessButton](https://openaccessbutton.org/)
+* [Reference Interview](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs)
+* [SCUBA](http://bit.ly/creatingdefinitions)
+* [OpenAccessButton](https://openaccessbutton.org/)
 
 ### Website Archiving and Digital Preservation
 
