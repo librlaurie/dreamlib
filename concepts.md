@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 ## Concepts and Models
 <p>Here is an overview of the broad concepts and models that we worked on this week: </p>
