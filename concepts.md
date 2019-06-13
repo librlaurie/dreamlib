@@ -14,10 +14,10 @@ by Claire Cahoon
 
 ### The Pyramid 
 The pyramid is a model for developing and offering library services. The steps are:
-4. Research and Development: experiments that are the first of their kind
-3. Apply for This: enhanced research services that are custom-designed with the library's digital scholarship team
-2. Everyone Gets Upon Request: standard research services that are available to everyone if they ask for it. (examples: institutional repository, ILL, standard web publishing platforms, data analysis consultations)
-1. Everyone Gets Without Asking: Standard academic and administrative services that the library offers to all (examples: wikis, libguides, media streaming, library catalog)
+  4. Research and Development: experiments that are the first of their kind
+  3. Apply for This: enhanced research services that are custom-designed with the library's digital scholarship team
+  2. Everyone Gets Upon Request: standard research services that are available to everyone if they ask for it. (examples: institutional repository, ILL, standard web publishing platforms, data analysis consultations)
+  1. Everyone Gets Without Asking: Standard academic and administrative services that the library offers to all (examples: wikis, libguides, media streaming, library catalog)
 
 Here are our drawings of the pyramid:
 
