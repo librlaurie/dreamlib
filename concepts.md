@@ -16,8 +16,8 @@ by Claire Cahoon
 
 ### Project Planning
 <p>We worked through how to manage projects (our own and for others) and best practices for making a project plan. We then moved through two different project planning tools:</p>
-* [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
-* [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
+* ![Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+* ![Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
 
 We all created plans for our own projects!
 ![Sketch of boxes containing project planning information](https://github.com/librlaurie/dreamlib/blob/master/images/project_planning_EM.JPG)
