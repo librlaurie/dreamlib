@@ -15,7 +15,7 @@ by Claire Cahoon
 ### Pyramid and simplified pyramid (picture)
 
 ### Project Planning
-<p>We worked through how to manage projects (our own and for others) and best practices for making a project plan. We then moved through two different project planning tools:</p>
+We worked through how to manage projects (our own and for others) and best practices for making a project plan. We then moved through two different project planning tools:
 * [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
 * [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
 

@@ -1,5 +1,5 @@
 ---
-layout
+layout: default
 ---
 
 ## Tools and Methods
@@ -40,5 +40,9 @@ Finally, if you have done really excellent work and need to make your host your 
 [Liberating Structures Website](http://www.liberatingstructures.com/)
 
 ### Publishing 
+
+We discussed the great tools for self-publishing: Jekyll (including the great themes **Ed** and **Wax**), Omeka, Scalar. 
+Also some great larger publishing tools: Manifold, Fulcrum, Stanford 
+
 
 ###  
