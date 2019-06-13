@@ -4,17 +4,23 @@ layout: default
 
 ## Tools and Methods
 
-We explored a smattering of tools and methods spanning digital publishing, data management and visualization
+We explored a smattering of tools and methods spanning digital publishing, data management and visualization, project planning and management, web archiving and digital preservation.
 
-Below are just some of the stuff we have a greater hunger to learn more about.
+Below are just some of the things we have a greater hunger to learn more about.
 
 ### Scholarly Communications
 
 We had the amazing Sarah Wipperman, Schol Comm Librarian at Penn Libraries come talk with us about about her work and some of the tools designed by her and the Digital Scholarship team and Penn.
 
 Reference Interview
+SCUBA
+OpenAccessButton
 
 ### Website Archiving and Digital Preservation
+
+We read some really cool papers on digital preservation and then we were exploring the web of the past with Internet Archive's Way Back Machine, Rizhome, and others.
+
+And then, we were messing with [OldWeb.Today](oldweb.today) and using the "What's Cool" function, we found this gem from the Panic encyclopaedia:
 
 ![Why Panic? Website](images/whypanic.png)
 
@@ -45,10 +51,14 @@ Finally, if you have done really excellent work and need to make your host your 
 
 [Liberating Structures Website](http://www.liberatingstructures.com/)
 
-### Publishing 
+### Digital Publishing 
 
-We discussed the great tools for self-publishing: Jekyll (including the great themes **Ed** and **Wax**), Omeka, Scalar. 
+We discussed the great tools for self-publishing: Jekyll (especially the great themes **Ed** and **Wax**), Omeka, Scalar. 
 Also some great larger publishing tools: Manifold, Fulcrum, and Stanford's custom platform.
+
+We dug a little into markdown, with the helpful [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+#### _Jekyll + Markdown + 45 minutes of furiously collaborative (and caffeinated) work = this website (i.e. a lesson in how projects actually get done....)_
 
 
 ###  
