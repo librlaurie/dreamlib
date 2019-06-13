@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+#### [Back to Home Page](index.html) | [Concepts and Models](concepts.html)  
+
 
 ## Tools and Methods
 
@@ -62,3 +64,6 @@ We dug a little into Markdown, with the helpful [Markdown Tutorial](https://www.
 
 
 ###  
+
+
+#### [Back to Home Page](index.html) | [Concepts and Models](concepts.html)  
