@@ -14,21 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dreamlib
-email: your-email@example.com
+email: laallen@upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Very boldly, the participants in "Expansive and Inclusive Digital Scholarly Production in Libraries" course decided to create a jekyll site summarizing everything from the course - and to make the whole thing in less than 2 hours from conception to completion!
 baseurl: "/dreamlib" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @penndreamlab
+twitter_username: penndreamlab
 github_username:  librlaurie
 
 # Build settings
 markdown: kramdown
 # remote_theme: mmistakes/minimal-mistakes
-theme: minima
-# theme: jekyll-theme-dinky
+# theme: minima
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-feed
