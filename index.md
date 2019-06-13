@@ -14,4 +14,4 @@ The Expansive & Inclusive Digital Scholarly Production in the Library brought to
 <a href="http://laurieallen.org/dreamlib/concepts">![representative img for concepts and models](images/tools_640x360.jpg)</a>
 
 #### [Tools and Methods](methods.html)
-<a href="http://laurieallen.org/dreamlib/methods">![representative img for tools and methods]<a href="http://laurieallen.org/dreamlib/methods">(images/concept_640x388.jpg)</a>
+<a href="http://laurieallen.org/dreamlib/methods">![representative img for tools and methods(images/concept_640x388.jpg)</a>
