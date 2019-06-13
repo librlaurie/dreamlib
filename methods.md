@@ -4,17 +4,17 @@ layout: default
 
 ## Tools and Methods
 
-We explored a smattering of tools and methods spanning digital publishing, data management and visualization, project planning and management, web archiving and digital preservation.
+We explored a smattering of tools and methods common to digital publishing, data management and visualization, project planning and management, web archiving and digital preservation.
 
 Below are just some of the things we have a greater hunger to learn more about.
 
 ### Scholarly Communications
 
-We had the amazing Sarah Wipperman, Schol Comm Librarian at Penn Libraries come talk with us about about her work and some of the tools designed by her and the Digital Scholarship team and Penn.
+The amazing Sarah Wipperman, Scholarly Communications Librarian at Penn Libraries, visited us to speak about her work and some of the tools designed by her and the Digital Scholarship team and Penn.
 
-Reference Interview
-SCUBA
-OpenAccessButton
+[Reference Interview](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1012&context=libr_pubs)
+[SCUBA](http://bit.ly/creatingdefinitions)
+[OpenAccessButton](https://openaccessbutton.org/)
 
 ### Website Archiving and Digital Preservation
 
@@ -56,7 +56,7 @@ Finally, if you have done really excellent work and need to make your host your 
 We discussed the great tools for self-publishing: Jekyll (especially the great themes **Ed** and **Wax**), Omeka, Scalar. 
 Also some great larger publishing tools: Manifold, Fulcrum, and Stanford's custom platform.
 
-We dug a little into markdown, with the helpful [Markdown Tutorial](https://www.markdowntutorial.com/)
+We dug a little into Markdown, with the helpful [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 #### _Jekyll + Markdown + 45 minutes of furiously collaborative (and caffeinated) work = this website (i.e. a lesson in how projects actually get done....)_
 
