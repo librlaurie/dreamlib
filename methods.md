@@ -8,6 +8,9 @@ layout
 
 Reference Interview
 
+### Website Archiving and Digital Preservation
+
+![Why Panic? Website](https://github.com/librlaurie/dreamlib/blob/master/images/whypanic.png)
 
 ### Data Visualization
 
