@@ -22,7 +22,7 @@ The pyramid is a model for developing and offering library services. The steps a
 Here are our drawings of the pyramid:
 ![pyramid service model](images/the_pyramid_EM.JPG) 
 by Elliot Montpellier
-![pyramid service model 2](https://github.com/librlaurie/dreamlib/blob/master/images/Claire_pyramid_sketch.JPG)
+![pyramid service model 2](images/Claire_pyramid_sketch.JPG)
 by Claire Cahoon
 
 ### Project Planning
@@ -30,6 +30,6 @@ We worked through how to manage projects (our own and for others) and best pract
 * [Socio-technical Sustainability Roadmap](https://sites.haa.pitt.edu/sustainabilityroadmap/)
 * [Yale DH Lab - Starting a Project](http://dhlab.yale.edu/guides.html)
 
-We all created plans for our own projects!
+We all created plans for our own projects! Here is one that used the Lean Canvas exercise from Yale's DH lab. It was really hard to do.
 ![Sketch of boxes containing project planning information](images/project_planning_EM.JPG)
 by Elliot Montpellier
