@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+#### [Back to Home Page](index.html) | [Tools and Methods](methods.html)  
+
 ## Concepts and Models
 <p>We explored "what is a library?", service models and adaptations, and project planning. Below are a few highlights.</p>
 
@@ -33,3 +35,9 @@ We worked through how to manage projects (our own and for others) and best pract
 We all created plans for our own projects! Here is one that used the Lean Canvas exercise from Yale's DH lab. It was really hard to do.
 ![Sketch of boxes containing project planning information](images/project_planning_EM.JPG)
 by Elliot Montpellier
+
+
+
+
+
+#### [Back to Home Page](index.html) | [Tools and Methods](methods.html)  
