@@ -6,7 +6,7 @@ layout: page
 
 ### What is a library?
 We each did drawings that represented functions and services of the library. Here are the two that survived the week:
-![A colorful drawing of shapes and lines, representing a library](https://github.com/librlaurie/dreamlib/blob/master/images/concepts_whatislibrary.jpg)
+<img alt="A colorful drawing of shapes and lines, representing a library" src="https://github.com/librlaurie/dreamlib/blob/master/images/concepts_whatislibrary.jpg"></img>
 by Lauren Cooper
 
 ![An abstract drawing of a library in marker, showing the pathways of books](https://github.com/librlaurie/dreamlib/blob/master/images/Claire_lib_drawing.JPG)
