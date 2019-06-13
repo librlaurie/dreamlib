@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-##Concepts and Models
+## Concepts and Models
 * What is a library?
 * Project Planning (pictures)
   * sustainability
