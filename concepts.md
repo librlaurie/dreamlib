@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Concepts and Models
-<p>We explored what is a library, service models and adaptions, and project planning. Below are a few highlights.</p>
+<p>We explored "what is a library?", service models and adaptations, and project planning. Below are a few highlights.</p>
 
 ### What is a library?
 We each did drawings that represented functions and services of the library. Here are the two that survived the week:
