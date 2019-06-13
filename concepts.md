@@ -20,7 +20,10 @@ The pyramid is a model for developing and offering library services. The steps a
   1. Everyone Gets Without Asking: Standard academic and administrative services that the library offers to all (examples: wikis, libguides, media streaming, library catalog)
 
 Here are our drawings of the pyramid:
-![pyrmid service model](
+![pyramid service model](images/the_pyramid_EM.JPG) 
+by Elliot Montpellier
+![pyramid service model 2](https://github.com/librlaurie/dreamlib/blob/master/images/Claire_pyramid_sketch.JPG)
+by Claire Cahoon
 
 ### Project Planning
 We worked through how to manage projects (our own and for others) and best practices for making a project plan. We then moved through two different project planning tools:
